@@ -1,0 +1,3 @@
+=  Cloudflare DNS
+
+I just was tired to go into the portal to add a DNS record for my domain :) so this helps.
